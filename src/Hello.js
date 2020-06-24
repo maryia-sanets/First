@@ -1,6 +1,6 @@
 function hello() {
   console.log('Hello');
-  console.log('from new branch');
+  console.log('branch feature1 commit1');
 }
 
 hello();
